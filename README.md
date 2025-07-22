@@ -7,7 +7,7 @@ I am currently working on
 
 You could contact me at rigobertorayon03@gmail.com
 
-An app I designed during my time attending CSUMB https://github.com/jeslynsee/Project2_Sound_Wave 
+An app I designed with a partner, during my time attending CSUMB https://github.com/jeslynsee/Project2_Sound_Wave 
 
 
 
